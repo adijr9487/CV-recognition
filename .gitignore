@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+Images_crop/
+Images_test/
+Test_Images_crop/
+All_Images/
+vgg_face_weights c.h5
